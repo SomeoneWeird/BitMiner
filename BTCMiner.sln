@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCMiner", "BTCMiner\BTCMiner.csproj", "{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "BitMiner", "BitMiner\BitMiner.isproj", "{1D2093D4-B747-4580-B8E8-AFB30A003E66}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5} = {A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x64 = CD_ROM|x64
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DVD-5|x64 = DVD-5|x64
+		DVD-5|x86 = DVD-5|x86
+		Release x32|x64 = Release x32|x64
+		Release x32|x86 = Release x32|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		SingleImage|x64 = SingleImage|x64
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.CD_ROM|x64.ActiveCfg = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.CD_ROM|x64.Build.0 = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.CD_ROM|x86.ActiveCfg = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Debug|x64.ActiveCfg = Debug|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Debug|x64.Build.0 = Debug|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Debug|x86.ActiveCfg = Debug|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Debug|x86.Build.0 = Debug|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.DVD-5|x64.ActiveCfg = Debug|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.DVD-5|x64.Build.0 = Debug|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.DVD-5|x86.ActiveCfg = Debug|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release x32|x64.ActiveCfg = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release x32|x64.Build.0 = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release x32|x86.ActiveCfg = Release x32|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release x32|x86.Build.0 = Release x32|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release|x64.ActiveCfg = Release|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release|x64.Build.0 = Release|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release|x86.ActiveCfg = Release|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.Release|x86.Build.0 = Release|x86
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.SingleImage|x64.ActiveCfg = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.SingleImage|x64.Build.0 = Release x32|x64
+		{A8AA9C33-9F8B-4703-9F6C-FEEE7007A2C5}.SingleImage|x86.ActiveCfg = Release x32|x64
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.CD_ROM|x64.ActiveCfg = CD_ROM
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.CD_ROM|x64.Build.0 = CD_ROM
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.CD_ROM|x86.Build.0 = CD_ROM
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Debug|x64.ActiveCfg = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Debug|x64.Build.0 = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Debug|x86.ActiveCfg = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Debug|x86.Build.0 = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.DVD-5|x64.ActiveCfg = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.DVD-5|x64.Build.0 = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.DVD-5|x86.ActiveCfg = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.DVD-5|x86.Build.0 = DVD-5
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release x32|x64.ActiveCfg = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release x32|x64.Build.0 = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release x32|x86.ActiveCfg = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release x32|x86.Build.0 = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release|x64.ActiveCfg = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release|x64.Build.0 = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release|x86.ActiveCfg = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.Release|x86.Build.0 = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.SingleImage|x64.ActiveCfg = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.SingleImage|x64.Build.0 = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.SingleImage|x86.ActiveCfg = SingleImage
+		{1D2093D4-B747-4580-B8E8-AFB30A003E66}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Release\BitMiner.exe.config
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Release\BitMiner.exe.manifest
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Release\BitMiner.application
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Release\BitMiner.exe
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Release\BitMiner.pdb
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Release\Simple7.dll
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\BitMiner.Form1.resources
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\BitMiner.Properties.Resources.resources
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\BitMiner.exe.manifest
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\BitMiner.application
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\BitMiner.exe
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Release\BitMiner.pdb

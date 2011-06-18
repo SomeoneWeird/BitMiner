@@ -1,0 +1,64 @@
+Ok, so I think it's usable enough to release at the moment. 
+
+
+[center]
+[size=49pt][b]BitMiner[/b][/size]
+
+[b]Current Support:[/b]
+Pools:
+[list]
+[li]DeepBit[/li]
+[li]Slush's Pool[/li]
+[li]BTCGuild[/li]
+[li]BTCMiner[/li]
+[li]Eligius[/li]
+[/list]
+Miners:
+[list]
+[li]poclbm[/li]
+[/list]
+
+[hr]
+
+[b]Step 1[/b]: Go to Accounts tab, and setup an account.
+[b]Step 2:[/b] Go to the miners tab (in this case poclbm), select the account you want to use, and configure the arguments.
+[b]Step 3:[/b] Hit mine! Sit back and relax
+
+[hr]
+
+[img]http://img802.imageshack.us/img802/3434/bitmineraccounts.png[/img]
+
+[img]http://img33.imageshack.us/img33/4259/bitminerpoclbm.png[/img]
+
+[img]http://img90.imageshack.us/img90/1256/bitminerminer.png[/img]
+
+[hr]
+
+There a bit of debugging code i've left in (such as writing all of the output from the miner to log.log), but this shouldn't affect use.
+Remember this is only [b]BETA[/b], it's pretty plain at the moment, but there should be alot more to come in the future :)
+
+[hr]
+
+Future plans:
+[list]
+[li]Graphing features[/li]
+[li]Fan Controls[/li]
+[li]GPU Monitoring[/li]
+[li]JSON interface with pools[/li]
+[li]Add more pools[/li]
+[li]Add support for most miners (phoenix, diablo etc.)[/li]
+[/list]
+
+It has taken me a [s]while[/s] a long time, to write this up and stuff, so if you use it and like it, please donate :)
+On the other hand, if you have a great idea that I think is worth something, I might send you some bitcents :D
+
+[hr]
+
+[b]Downloads:[/b]
+
+All files are signed.
+
+[url=https://www.dropbox.com/s/sypz0sbnpyd4yx3/Beta%201.zip]Dropbox[/url]
+[url=http://www.megaupload.com/?d=FGW76ILP]Megaupload[/url]
+
+[/center]

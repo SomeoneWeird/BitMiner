@@ -1,0 +1,16 @@
+c:\users\slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Debug\BitMiner.exe.config
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\BitMiner.Properties.Resources.resources
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\BitMiner.Form1.resources
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Debug\BitMiner.exe
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\bin\Debug\BitMiner.pdb
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\BitMiner.exe
+C:\Users\Slasher\documents\visual studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\BitMiner.pdb
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BTCMiner\BTCMiner\bin\Debug\BitMiner.exe.manifest
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BTCMiner\BTCMiner\bin\Debug\BitMiner.application
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\BitMiner.exe.manifest
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\BitMiner.application
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Slasher\Documents\Visual Studio 2010\Projects\BTCMiner\BTCMiner\obj\x86\Debug\ResGen.write.1.tlog
